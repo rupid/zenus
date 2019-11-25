@@ -27,6 +27,7 @@
     "url": "https://github.com/rupid/zenus/issues"
   },
   "dependencies": {
-    "chalk": "^3.0.0"
+    "chalk": "^3.0.0",
+    "fs-extra": "^8.1.0"
   }
 }

@@ -27,7 +27,8 @@
     "access": "public"
   },
   "dependencies": {
-    "chalk": "^3.0.0"
+    "chalk": "^3.0.0",
+    "fs-extra": "^8.1.0"
   },
   "gitHead": "cdd95cf093321437bfb0b3cb1acb7e1c3b4e2f15"
 }
