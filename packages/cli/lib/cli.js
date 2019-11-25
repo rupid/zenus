@@ -2,6 +2,7 @@
 
 module.exports = cli;
 
-function cli() {
-    // TODO
+function cli () {
+  // TODO
+  console.log(+new Date())
 }
