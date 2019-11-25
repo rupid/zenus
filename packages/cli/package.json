@@ -2,7 +2,7 @@
   "name": "@zenus/cli",
   "version": "0.0.3",
   "description": "> TODO: description",
-  "author": "liujianwei <liujianwei@zuoyebang.com>",
+  "author": "liujianwei <liujianwei1213@163.com>",
   "homepage": "https://github.com/rupid/zenus#readme",
   "license": "MIT",
   "main": "lib/cli.js",

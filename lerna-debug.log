@@ -1,0 +1,9 @@
+40 error Error: Command failed: git push --follow-tags --no-verify origin master
+40 error fatal: TaskCanceledException encountered.
+40 error    ��ȡ��һ������
+40 error bash: /dev/tty: No such device or address
+40 error error: failed to execute prompt script (exit code 1)
+40 error fatal: could not read Username for 'https://github.com': No error
+40 error
+40 error     at makeError (C:\Users\zuoyebang\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:174:9)
+40 error     at Promise.all.then.arr (C:\Users\zuoyebang\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:278:16)
