@@ -2,6 +2,6 @@
 
 const cli = require('..');
 
-describe('cli', () => {
+describe('@zenus/cli', () => {
     it('needs tests');
 });

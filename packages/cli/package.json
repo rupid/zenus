@@ -1,5 +1,5 @@
 {
-  "name": "cli",
+  "name": "@zenus/cli",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "liujianwei <liujianwei@zuoyebang.com>",
@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/rupid/zenus/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
